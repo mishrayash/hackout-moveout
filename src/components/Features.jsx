@@ -15,10 +15,9 @@ const Features = () => {
             Get Ready to Explore, Get Ready to Experience!
           </h1>
           <p>
-            Discover the Best Holiday Experiences with TripPixie! We're
-            dedicated to curating the latest and greatest destinations from
-            around the world, ensuring you always get the ultimate travel
-            experience.
+            Discover the Best Holiday Experiences with Moveout! We're dedicated
+            to curating the latest and greatest destinations from around the
+            world, ensuring you always get the ultimate travel experience.
           </p>
         </div>
 
